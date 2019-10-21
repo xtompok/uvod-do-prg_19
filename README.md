@@ -11,3 +11,6 @@ Cvičení probíhá v jazyku Python 3. Možná jste se setkali, například na P
 ## Programové vybavení
 Na cvičení budeme programovat v Pythonu 3 v prostředí [PyCharm](https://www.jetbrains.com/pycharm/), stáhněte si zdarma dostupnou Community Edition. Můžete samozřejmě použít i jiná prostředí, pokud jsou vám bližší.
 
+## Poznámky ze cvičení
+ * pokud importujete nějaký modul, tak se hlavní program nesmí jmenovat stejně jako tento modul. Tedy např. pokud ve svém kódu máte `from turtle import ...`, tak se váš soubor nesmí jmenovat `turtle.py`
+ * nápovědu k tomu, jak se daná funkce volá a co dělá získáte pomocí zavolání `help(jmeno_funkce)`. Obvykle se používá v interaktivním režimu (v Python konzoli)
