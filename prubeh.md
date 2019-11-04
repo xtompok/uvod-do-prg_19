@@ -23,3 +23,7 @@
 * formátování řetězců a speciální znaky
 * úvod do verzování a GITu
 * úvod do funkcí
+
+## 4. cvičení
+* seznamy
+* zadání domácího úkolu
