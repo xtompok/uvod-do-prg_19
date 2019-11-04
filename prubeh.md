@@ -17,3 +17,9 @@
   * "kytička"
   * volitelně šstiúhelníková síť
 * while cyklus
+
+## 3. cvičení
+* sčítání volebních hlasů
+* formátování řetězců a speciální znaky
+* úvod do verzování a GITu
+* úvod do funkcí
