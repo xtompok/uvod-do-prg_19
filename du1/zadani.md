@@ -79,7 +79,7 @@ du1.zip
 ```
 Zip archiv mi pošlete mailem. 
 
-Deadline bude 25.11. 8.03. Úkoly odeslané po deadlinu budou brány jako neodevzdané. Pokud
+Deadline bude 24.11. 8.03. Úkoly odeslané po deadlinu budou brány jako neodevzdané. Pokud
 odevzdáte úkol vícekrát, budu hodnotit poslední odevzdání před deadlinem.
 Každému, kdo mi pošle úkol, odpovím, že jsem ho přijal a že se mi podařilo zip
 rozbalit. Pokud neodpovím, urgujte.
