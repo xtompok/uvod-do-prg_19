@@ -27,3 +27,9 @@
 ## 4. cvičení
 * seznamy
 * zadání domácího úkolu
+* nákupní seznam
+* vytváříme hru "Hádej hlavní město"
+
+## 5. cvičení
+* pokračování hry "Hádej hlavní město"
+* další možnosti práce s řetězci a se seznamy
