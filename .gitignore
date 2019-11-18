@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+/du1/reseni
+/du2/reseni
+/du3/reseni

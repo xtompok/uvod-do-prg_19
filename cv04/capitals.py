@@ -1,6 +1,5 @@
-# Nacitej staty a hlavni mesta
- # Zde je sdileny pouze seznam statu s hlavnimi mesty
-# Hadej hlavni mesta
+from random import shuffle
+
 def nacti_stat_a_hlavni_mesto(staty):
     # Načtu od uživatele stát
     stat = input("Zadej stat")
@@ -14,18 +13,41 @@ def nacti_stat_a_hlavni_mesto(staty):
     return True
 
 def nacti_staty_a_hlavni_mesta():
-    staty1 = []
+    staty = []
     # Dokud uživatel nezadal 'x', načítám stát a hlavní město
     while True:
-        vysl = nacti_stat_a_hlavni_mesto(staty1)
+        vysl = nacti_stat_a_hlavni_mesto(staty)
         if not vysl:
-            return staty1
+            return staty
 
-def hadej_hlavni_mesta(staty3):
-    pass # Pass nic nedělá, jen zajištuje existenci odsazeného bloku
-    # Dokud uživatel nezadal 'x', ptám se na hlavní město
+def hadej_hlavni_mesto(stat,mesto):
+    # Vypis stat
+    print(stat)
+    odpoved = input("Zadej mesto:")
+    pokusu = 0
+    # Dokud uzivatel nezadal spravne hlavni mesto:
+    while odpoved != mesto:
+        pokusu += 1
+        # Rekni mu tolik pismen, kolikrat uz neuhodl
+        print("Nápověda: {}".format(mesto[:pokusu]))
+        # Zeptej se na hlavni mesto
+        odpoved = input("Zadej mesto:")
 
+def hadej_hlavni_mesta(staty):
+    # Zamíchej státy
+    shuffle(staty)
+    # Dokud jsou nějaké státy v seznamu:
+    while len(staty) > 0:
+        # Vyzvedni dvojici stat,mesto ze seznamu statu
+        sm = staty.pop()
+        (stat,mesto) = sm
+        #(stat,mesto) = staty3.pop()
+        hadej_hlavni_mesto(stat,mesto)
+
+# Nacitej staty a hlavni mesta
 staty2 = nacti_staty_a_hlavni_mesta()
+# Zde je sdileny pouze seznam statu s hlavnimi mesty
 print(staty2)
+# Hadej hlavni mesta
 hadej_hlavni_mesta(staty2)
 

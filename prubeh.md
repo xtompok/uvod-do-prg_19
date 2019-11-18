@@ -33,3 +33,9 @@
 ## 5. cvičení
 * pokračování hry "Hádej hlavní město"
 * další možnosti práce s řetězci a se seznamy
+* moduly - úvod
+
+## 6. cvičení
+* volání funkcí teoreticky
+* rekurze
+* generování bodů
