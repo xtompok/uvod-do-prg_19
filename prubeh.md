@@ -38,4 +38,9 @@
 ## 6. cvičení
 * volání funkcí teoreticky
 * rekurze
+* Kochova vločka
+
+## 7. cvičení
+* poznámky k prvnímu úkolu
 * generování bodů
+* kd-tree
