@@ -43,4 +43,5 @@
 ## 7. cvičení
 * poznámky k prvnímu úkolu
 * generování bodů
+* binární vyhledávání
 * kd-tree
