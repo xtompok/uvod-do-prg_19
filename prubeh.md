@@ -42,6 +42,9 @@
 
 ## 7. cvičení
 * poznámky k prvnímu úkolu
-* generování bodů
+* generování stromů pomocí rekurze
 * binární vyhledávání
+
+## 8. cvičení
+* generování bodů
 * kd-tree
