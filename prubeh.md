@@ -48,3 +48,9 @@
 ## 8. cvičení
 * generování bodů
 * kd-tree
+
+## 9. cvičení
+* slovníky
+* JSON a GeoJSON
+* soubory
+* zadání domácího úkolu
