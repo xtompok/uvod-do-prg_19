@@ -49,7 +49,7 @@ kategorizovaný symbol podle cluster_id.
 ### Další požadavky
 
 Funkce počítající quadtree by měly být samostatném modulu `quadtree.py`, hlavní
-program by se měl jmenovat `split.py` a funkce si z modulu `quadtree` importovat 
+program by se měl jmenovat `split.py` a funkce si z modulu `quadtree` importovat. 
 
 ## Doporučení
 Předtím, než začnete programovat, rozmyslete se, jak by měl program fungovat a
