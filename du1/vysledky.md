@@ -1,6 +1,8 @@
 # Bodování úkolů
 
 K získání zápočtu je třeba z úkolů (budou celkem 3) získat alespoň 23 bodů.
+
+
 |Jméno		| DÚ 1	|
 -------------------------
 |Alex Š.	| 11	|
