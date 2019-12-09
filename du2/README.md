@@ -48,10 +48,8 @@ kategorizovaný symbol podle cluster_id.
 
 ### Další požadavky
 
-Program by měl ošetřovat nekorektní vstupy a výjimky, v takovém případě by měl
-vypsat chybovou hlášku a skončit s chybou (`exit(<cislo>)`, kde `cislo` je mezi
-1 a 127).
-
+Funkce počítající quadtree by měly být samostatném modulu `quadtree.py`, hlavní
+program by se měl jmenovat `split.py` a funkce si z modulu `quadtree` importovat 
 
 ## Doporučení
 Předtím, než začnete programovat, rozmyslete se, jak by měl program fungovat a
@@ -60,8 +58,7 @@ implementujte jednotlivé funkce, průběžně ověřujte, zda se chovají dle
 očekávání.
 
 ## Bodování
-  * 1 b za funkční aplikaci pro korektní vstupy
-  * 4 b za funkční aplikaci pro nekorektní vstupy
+  * 5 b za funkční aplikaci
   * 3 b za kvalitu kódu
   * 2 b za dokumentaci
 
@@ -90,7 +87,8 @@ Na začátku programu bude konstantou `ALGORITHM` zvolen algoritmus, kterým se
 bude provádět dělení bodů. Můžete použít libovolný vhodný algoritmus, podle jeho
 obtížnosti za něj získáte 1 -- 5 bodů (pokud mi dopředu napíšete, který
 algoritmus budete implementovat, odpovím vám, kolik bodů za něj bude).
-Implementace quadtree je samozřejmě povinná bez bonusových bodů.
+Implementace quadtree je samozřejmě povinná bez bonusových bodů. Každý
+algoritmus by měl být implementován v samostaném modulu.
 
 
 [1]: https://en.wikipedia.org/wiki/Quadtree
