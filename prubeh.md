@@ -54,3 +54,11 @@
 * JSON a GeoJSON
 * soubory
 * zadání domácího úkolu
+
+## 10. cvičení
+* výjimky
+* parametrizace skriptů (input, konfigurační soubor, parametry příkazové řádky)
+* práce se soubory podrobněji
+  * soubory a adresáře
+  * cesty
+  * procházení adresářového stromu
