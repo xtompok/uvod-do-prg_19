@@ -62,3 +62,17 @@
   * soubory a adresáře
   * cesty
   * procházení adresářového stromu
+
+## 11. cvičení
+* práce se seoubory - přípony
+* stahujeme kurzovní lístek
+* stahujeme předpověď počasí
+* zadání domácího úkolu
+* cukroví
+* co bude v navazujícím kurzu programování
+  * grafické rozhraní
+  * rozsáhlejší příklady
+  * další zajímavé moduly pro Python
+  * časová analýza algoritmů - kdy vám nepomůže rychlejší počítač
+  * grafové algoritmy
+

@@ -11,6 +11,7 @@ for feat in data['features']:
     print(feat)
     print(feat['properties']['OBJECTID'])
 
+# Filter stops, that are exactly in zone P
 filtered_stops = []
 for feat in data['features']:
     if feat['properties']['ZAST_PASMO'] == 'P':
