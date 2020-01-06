@@ -162,3 +162,23 @@ zásobník stále roste. Více na
 *Programátorské techniky*. 
 
 
+## Dokumentace
+Každý program by měl obsahovat alespoň základní uživatelskou dokumentaci,
+rozsáhlejší programy pak i dokumentaci programátorskou.
+
+### Uživatelská dokumentace
+Představte si, že kamarádovi vysvětlujete, jak se ten program používá. Kamarád
+se rámcově orientuje v tématu programu (tedy např. ví, co jsou to válcová
+zobrazení), ale programovat neumí a chce jen program používat, tedy je vhodné
+mu říct, jak má co kam zadat, co se případně stane, když něco zadá špatně a co
+se vypíše a jak to má použít.
+
+### Vývojářská dokumentace
+Pokud je program rozsáhlejší, píše se i programátorská dokumentace,
+tedy máte jiného kamaráda, který se opět rámcově orientuje v tématu
+programu, ale navíc umí programovat, ale zdroják vašeho programu nikdy
+neviděl. Tato část dokumentace by tedy měla obsahovat stručný popis
+běhu programu a stručný popis složitějších funkcí. Také by měla
+popisovat použité algoritmy. Doplňkem této dokumentace jsou docstringy
+u jednotlivých funkcí, které říkají vstupní a výstupní parametry každé
+funkce.
