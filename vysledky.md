@@ -10,11 +10,11 @@ Nevyplněná pole značí ještě neobodovaný úkol.
 | Anna S.	| 9	| 	|	 |
 | David Č.	| 9	| 8	| 17	 |
 | David M.	| 7	| 3	| 10	 |
-| Eliška S.	| 12	|	|	 |
-| Gunter K.	| 17	|	|	 |
+| Eliška S.	| 12	| 5	| 17	 |
+| Gunter K.	| 17	| 10	| 27	 |
 | Jakub M.	| 9	| 0	| 9	 |
-| Jakub Z.	| 10	|	|	 |
-| Marie Š.	| 11	|	|	 |
+| Jakub Z.	| 10	| 11	| 21	 |
+| Marie Š.	| 11	| 8	| 19	 |
 | Markéta Ž.	| 13	|	|	 |
 | Michal K.	| 17	|	|	 |
 | Nikola C.	| 11	| 0	| 11	 |
