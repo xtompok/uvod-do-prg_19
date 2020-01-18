@@ -18,7 +18,7 @@ K získání zápočtu je třeba z úkolů (budou celkem 3) získat alespoň 23 
 | Michal K.	| 17	| 10	| 27	 |
 | Nikola C.	| 11	| 0	| 11	 |
 | Petr J.	| 11	| 1 	| 12	 |
-| Rostislav B.	| 14	| >=9	| >=23	 |
+| Rostislav B.	| 14	| 12	| 26	 |
 | Václav K.	| 8	| 0	| 8	 |
 
 
