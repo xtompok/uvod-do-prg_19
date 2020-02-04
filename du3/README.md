@@ -38,7 +38,7 @@ Program dostane jako vstup adresář, zadaný jako parametr příkazové řádky
 Program tedy bude spouštěn například jako `py geocrawler.py data`, pak bude
 prozkoumávat adresář `data`.
 
-Vzorový vstup bude zde ke stažení.
+Vzorový vstup [zde ke stažení][9].
 
 ### Výstup
 
@@ -104,5 +104,5 @@ zájem, napište mi email.
 [6]: https://tools.ietf.org/html/rfc7946#appendix-A.1
 [7]: https://tools.ietf.org/html/rfc7946#appendix-A.2
 [8]: https://tools.ietf.org/html/rfc7946#appendix-A.3
-
+[9]: du3_testdata.zip
 
