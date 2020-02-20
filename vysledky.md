@@ -4,8 +4,8 @@ K získání zápočtu je třeba z úkolů (budou celkem 3) získat alespoň 23 
 
 | Jméno		| DÚ 1	| DÚ 2	|DÚ 3	| Celkem |
 |---------------|------:|------:|-----:|-------:|
-| Alex Š.	| 11	| 7	|	| 18	 |
-| Anna K.	| 11	| 7	|	| 18	 |
+| Alex Š.	| 11	| 7	| 8	| 26	 |
+| Anna K.	| 11	| 7	| 8	| 26	 |
 | Anna S.	| 9	| 1	|	| 10	 |
 | David Č.	| 9	| 8	|	| 17	 |
 | David M.	| 7	| 3	|	| 10	 |
